@@ -59,11 +59,9 @@ for i in range(70):
         print("NAO camina")
 
 
-#Nota: El resultado puede estar incorrecto.
-#Esto puede ser debido a sesgo en la muestra, o porque es imposible separar
-#a hombres y mujeres perfectamente basados unicamente en talla y peso."""
 
-## Fase de graficacion
+## Fase de graficacion(OPCIONAL)
+"""
 import imp
 
 can_plot = True
@@ -81,3 +79,4 @@ import matplotlib.pyplot as plt
 
 plt.plot(errors)
 plt.show()
+"""
